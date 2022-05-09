@@ -3,6 +3,6 @@ I attempted to create a landing page that is similar to the challenge 2 gif that
 
 ![Getting Started](./assets/images/page-photo.png)
 
-
+https://pcents.github.io/James-P-Challenge-2/
 
 -James Plasencia
